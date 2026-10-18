@@ -1,0 +1,10 @@
+*.lst
+*.out
+*.rom
+*.sym
+tools/*.png
+__pycache__/
+tools/shots/
+tools/editor/.reach_cache.json
+projects/active.json
+projects/
